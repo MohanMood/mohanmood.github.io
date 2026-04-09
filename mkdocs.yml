@@ -43,3 +43,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
+
+extra_css:
+  - stylesheets/freeze_title.css
