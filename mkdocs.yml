@@ -12,8 +12,12 @@ theme:
     code: Roboto Mono
   features:
     - navigation.tabs
-    - navigation.top
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - toc.follow
+    - navigation.top
     - content.code.copy
     - search.highlight
     - search.suggest
