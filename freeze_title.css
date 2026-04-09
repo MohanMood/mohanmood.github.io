@@ -1,18 +1,10 @@
-/* Keep full header visible */
-.md-header {
-  position: sticky;
-  top: 0;
-  z-index: 9999;
+/* Always show site name, never replace with page title */
+.md-header__title .md-header__topic:first-child {
+  transform: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
-/* Keep tabs attached under header */
-.md-tabs {
-  position: sticky;
-  top: 2.4rem;   /* adjust if needed */
-  z-index: 9998;
-}
-
-/* Prevent content from sliding under sticky bars */
-.md-main__inner {
-  margin-top: 0.5rem;
+.md-header__title .md-header__topic:last-child {
+  display: none !important;
 }

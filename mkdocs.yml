@@ -1,6 +1,9 @@
 site_name: Mohan Mood | Computational Chemistry & AI
 site_url: https://mohanmood.github.io/
 
+extra_css:
+  - stylesheets/freeze_title.css
+
 theme:
   name: material
   palette:
