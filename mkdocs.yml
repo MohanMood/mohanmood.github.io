@@ -1,0 +1,18 @@
+site_name: Mohan Mood | Computational Chemistry & AI
+site_url: https://yourusername.github.io/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Research: research.md
+  - Publications: publications.md
+  - Talks: talks.md
+  - Gallery: gallery.md
+  - News: news.md
+  - Contact: contact.md
