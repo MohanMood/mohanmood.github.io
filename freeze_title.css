@@ -1,17 +1,24 @@
-/* Fix for both mobile and desktop: always show site name */
-.md-header__ellipsis {
-  display: none !important;
+/* Force desktop layout and show full site name */
+.md-header__inner {
+  display: flex !important;
+  align-items: center !important;
 }
 
-.md-header__title {
-  font-size: .9rem !important;
-  white-space: nowrap !important;
-  overflow: visible !important;
+/* Hide hamburger menu on desktop */
+@media screen and (min-width: 76.25em) {
+  .md-header__button.md-icon[for="__drawer"] {
+    display: none !important;
+  }
+  
+  /* Show full site name */
+  .md-header__title {
+    margin-left: 0 !important;
+    font-size: 1rem !important;
+  }
 }
 
-/* Prevent page title from replacing site name on scroll */
-[data-md-component="header-title"] {
+/* Prevent title from being replaced by page name on scroll */
+.md-header__topic + .md-header__topic {
   opacity: 0 !important;
-  visibility: hidden !important;
-  display: none !important;
+  pointer-events: none !important;
 }
