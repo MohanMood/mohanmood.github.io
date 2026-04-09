@@ -1,10 +1,17 @@
-/* Always show site name, never replace with page title */
-.md-header__title .md-header__topic:first-child {
-  transform: none !important;
-  opacity: 1 !important;
-  visibility: visible !important;
+/* Fix for both mobile and desktop: always show site name */
+.md-header__ellipsis {
+  display: none !important;
 }
 
-.md-header__title .md-header__topic:last-child {
+.md-header__title {
+  font-size: .9rem !important;
+  white-space: nowrap !important;
+  overflow: visible !important;
+}
+
+/* Prevent page title from replacing site name on scroll */
+[data-md-component="header-title"] {
+  opacity: 0 !important;
+  visibility: hidden !important;
   display: none !important;
 }
