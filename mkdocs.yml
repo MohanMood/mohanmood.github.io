@@ -1,11 +1,22 @@
 site_name: Mohan Mood | Computational Chemistry & AI
-site_url: https://yourusername.github.io/
+site_url: https://mohanmood.github.io/
+
 theme:
   name: material
   palette:
     - scheme: default
       primary: blue
       accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - search.suggest
 
 nav:
   - Home: index.md
@@ -16,3 +27,15 @@ nav:
   - Gallery: gallery.md
   - News: news.md
   - Contact: contact.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
