@@ -9,9 +9,9 @@
     </div>
 
     <div style="text-align: center; margin-top: 10px;">
-      <a href="/assets/news/Postdoc-Award_Mood.jpg" target="_blank" rel="noopener noreferrer">
+      <a href="/assets/news/Postdoc-Award_Mood.JPG" target="_blank" rel="noopener noreferrer">
         <img 
-          src="/assets/news/Postdoc-Award_Mood.jpg" 
+          src="/assets/news/Postdoc-Award_Mood.JPG" 
           alt="Postdoc Award" 
           style="width: 100%; max-width: 720px; border-radius: 8px;"
         >

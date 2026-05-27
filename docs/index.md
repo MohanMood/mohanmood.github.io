@@ -2,7 +2,7 @@
 ### Computational Chemistry | AI/ML | Molecular Simulation
 
 <p align="center">
-  <img src="assets/profile.jpg" alt="Profile" width="300" style="border-radius: 10px;">
+  <img src="assets/profile.JPG" alt="Profile" width="300" style="border-radius: 10px;">
 </p>
 
 **R&D Associate**  
