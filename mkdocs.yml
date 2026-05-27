@@ -33,8 +33,10 @@ nav:
   - Publications: publications.md
   - Talks: talks.md
   - News: news.md
+  - Proffessional Activity: proffessional.md
   - Gallery: gallery.md
   - Contact: contact.md
+
 
 plugins:
   - search

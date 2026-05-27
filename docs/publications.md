@@ -53,7 +53,28 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2026</h2>
 
-<ol>
+<ol start="49" reversed>
+
+
+  <li>
+    <div style="margin-bottom: 4px;">
+      Huang K, <b>Mohan M</b>*, Su K, Gao C, Chen Y, Xu X, Cai Y, Guo J, Xu Y, Zhou X, Smith JC.
+      Deep Eutectic Solvents in Lignocellulosic Biorefineries: A Comprehensive Review of Mechanistic Insights, Molecular Modeling, and Artificial Intelligence.
+      <i>Green Chemistry</i>, Accepted.
+      DOI:
+      <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.5c00158" target="_blank" rel="noopener noreferrer">
+        
+      </a>
+
+      <p align="center">
+        <img src="/assets/publications/paper-49.jpg" width="300" style="border-radius: 8px;">
+      </p>       
+    </div>
+  </li>
+
+
+
+
   <li>
     <div style="margin-bottom: 4px;">
       Huang K, Song J, Su K, Xu X, Jetti KD, Xu Y, Zhou X, Kidder MK, Smith JC, <b>Mohan M</b>*.
@@ -84,7 +105,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2025</h2>
 
-<ol start="3">
+<ol start="46" reversed>
   <li>
     <div style="margin-bottom: 10px;">
       <b>Mohan M</b>*, Guggilam S, Bhowmik D, Kidder MK, Smith JC.
@@ -178,7 +199,7 @@
       </a>
 
       <p align="center">
-        <img src="/assets/publications/paper-8.jpg" width="200" style="border-radius: 8px;">
+        <img src="/assets/publications/paper-8.jpg" width="300" style="border-radius: 8px;">
       </p>       
     </div>
   </li>
@@ -188,7 +209,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2024</h2>
 
-<ol start="9">
+<ol start="40" reversed>
 
   <li>
     <div style="margin-bottom: 4px;">
@@ -347,7 +368,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2023</h2>
 
-<ol start="19">
+<ol start="30" reversed>
   <li>
     <div style="margin-bottom: 4px;">
       Dou C, Choudhary H, Wang Z, Baral NR, <b>Mohan M</b>, Aguilar RA, Holiday A, Banatao DR, Singh S, Scown CD, Keasling JD, Simmons BA, Sun N.
@@ -425,7 +446,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2022</h2>
 
-<ol start="24">
+<ol start="25" reversed>
   <li>
     <div style="margin-bottom: 4px;">
       Choudhary H, Pidatala VR, <b>Mohan M</b>, Simmons BA, Gladden JM, Singh S.
@@ -500,7 +521,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2021</h2>
 
-<ol start="29">
+<ol start="20" reversed>
 
   <li>
     <div style="margin-bottom: 4px;">
@@ -588,7 +609,7 @@
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2019</h2>
 
 
-<ol start="34">
+<ol start="15" reversed>
 
   <li>
     <div style="margin-bottom: 4px;">
@@ -608,7 +629,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2018</h2>
 
-<ol start="35">
+<ol start="14" reversed>
 
   <li>
     <div style="margin-bottom: 4px;">
@@ -696,7 +717,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2017</h2>
 
-<ol start="40">
+<ol start="9" reversed>
   <li>
     <div style="margin-bottom: 4px;">
       <b>Mohan M</b>, Naik PK, Banerjee T, Goud VV, Paul S.
@@ -726,7 +747,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2016</h2>
 
-<ol start="42">
+<ol start="7" reversed>
   <li>
     <div style="margin-bottom: 4px;">
       <b>Mohan M</b>, Banerjee T, Goud VV.
@@ -764,7 +785,7 @@
 
 <h2 style="margin-bottom: 6px; margin-top: 16px;">2015</h2>
 
-<ol start="44">
+<ol start="5" reversed>
   <li>
     <div style="margin-bottom: 4px;">
       <b>Mohan M</b>, Timung R, Deshavath NN, Banerjee T, Goud VV, Dasu VV.
