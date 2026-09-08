@@ -48,7 +48,7 @@
 
   <div style="text-align: center;">
     <a href="https://doi.org/10.1021/acs.jced.5b00914" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/cover-art/JCED_Cover-2016.JPG" alt="Cover Art 7" style="width: 100%; max-width: 480px; border-radius: 8px;">
+      <img src="/assets/cover-art/JCED_Cover-2016.png" alt="Cover Art 7" style="width: 100%; max-width: 480px; border-radius: 8px;">
     </a>
   </div>
 
