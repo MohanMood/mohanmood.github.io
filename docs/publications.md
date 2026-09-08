@@ -47,6 +47,15 @@
 
 </div>
 
+  <div style="text-align: center;">
+    <a href="https://doi.org/10.1021/acs.jced.5b00914" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/cover-art/JCED_Cover-2016.png" alt="Cover Art 7" style="width: 100%; max-width: 480px; border-radius: 8px;">
+    </a>
+  </div>
+
+</div>
+
+
 
 
 ## **Publications**  
@@ -60,10 +69,10 @@
     <div style="margin-bottom: 4px;">
       Huang K, <b>Mohan M</b>*, Su K, Gao C, Chen Y, Xu X, Cai Y, Guo J, Xu Y, Zhou X, Smith JC.
       Deep Eutectic Solvents in Lignocellulosic Biorefineries: A Comprehensive Review of Mechanistic Insights, Molecular Modeling, and Artificial Intelligence.
-      <i>Green Chemistry</i>, Accepted.
+      <i>Green Chemistry</i>, (2026), 28(30), 12505–12548.
       DOI:
-      <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.5c00158" target="_blank" rel="noopener noreferrer">
-        
+      <a href="https://doi.org/10.1039/d6gc00426a" target="_blank" rel="noopener noreferrer">
+        10.1039/d6gc00426a
       </a>
 
       <p align="center">
