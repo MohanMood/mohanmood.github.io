@@ -15,6 +15,31 @@
   gap: 20px;
   align-items: start;
 ">
+
+  <div style="text-align: center;">
+    <a href="/assets/photography/Hummingbird_2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/photography/Hummingbird_2.png" alt="Cover Art 1" style="width: 100%; max-width: 480px; border-radius: 8px;">
+      </a>
+</div>
+
+
+
+  <div style="text-align: center;">
+    <a href="/assets/photography/Hummingbird_1.png" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/photography/Hummingbird_1.png" alt="Cover Art 1" style="width: 100%; max-width: 480px; border-radius: 8px;">
+      </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
   <div style="text-align: center;">
     <a href="/assets/photography/20250510-_IMO8435-Enhanced-NR.jpg" target="_blank" rel="noopener noreferrer">
       <img src="/assets/photography/20250510-_IMO8435-Enhanced-NR.jpg" alt="Cover Art 1" style="width: 100%; max-width: 480px; border-radius: 8px;">
